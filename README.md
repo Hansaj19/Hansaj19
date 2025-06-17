@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: AI & DSA — featuring CNNs, RNNs, Transfer Learning, and Java DSA like trees, heaps, graphs.<br>👯 I’m looking to collaborate on: Hackathons, AI/ML projects, or anything that sounds techy-cool and chaotic.<br>🤝 I’m looking for help with: Flask deployment, time series modeling, and leveling up my Leetcode game.<br>🌱 I’m currently learning: Deep Learning stuff + Java DSA + also lowkey brushing up Python.<br>💬 Ask me about: How to survive engineering + anything AI/ML/DSA + stonks 😎<br>⚡ Fun fact: I once liked a Porsche just for its booty. Also, lame jokes >>> serious convos.
+🔭 I’m currently working on: AI & DSA — featuring CNNs, RNNs, Transfer Learning, and Java DSA like trees, heaps, graphs.<br>💬 Ask me about: How to survive engineering + anything AI/ML/DSA + stonks 😎<br>⚡ Fun fact: I once liked a Porsche just for its booty. Also, lame jokes >>> serious convos.
 
 
 ## 🌐 Socials:
